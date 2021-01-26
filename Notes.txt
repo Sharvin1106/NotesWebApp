@@ -1,0 +1,8 @@
+
+0	Physics	Introduction to Physics	Physics is the natural science that studies matter, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, and its main goal is to understand how the universe behaves.
+1	Chemistry	Introduction to Chemistry	Chemistry is the scientific discipline involved with elements and compounds composed of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances.
+2	Biology	Intro Biology	Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution. Despite the complexity of the science, certain unifying concepts consolidate it into a single, coherent field.
+3	Add Maths	Introduction to Add Maths	Additional Mathematics is a qualification in mathematics, commonly taken by students in high-school. It is applied to a range of problems set out in a different format and wider content to the standard Mathematics at the same level.
+4	LAMP Stack	Intro to LAMP	LAMP is a very common example of a web service stack, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system, and the PHP programming language.
+5	Front-end Development	Intro to Front end	HTML, CSS and Javascript
+6	Sharvin	My Biodata	I am Sharvin Kogilavanan
